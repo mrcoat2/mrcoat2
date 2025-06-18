@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @mrcoat2
-- 👀 I’m interested in python, javascript, website development and scratch.
-- 🌱 I’m currently learning java, c, c# c++ and basically all the c's
-- 📫 How to reach me use my scratch acount here https://scratch.mit.edu/users/mrcoat
+I code
